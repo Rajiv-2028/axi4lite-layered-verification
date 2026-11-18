@@ -1,0 +1,13 @@
+# simulation and tool output
+runs/
+waves.shm/
+*.shm
+xcelium.d/
+INCA_libs/
+cov_work/
+*.log
+*.vcd
+*.key
+reports/
+genus*.log
+.DS_Store
