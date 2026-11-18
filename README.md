@@ -8,4 +8,4 @@ Work in progress: the testbench, coverage, synthesis results and full documentat
 - `docs/AXI4LITE_BASICS.md` : what AXI4-Lite is
 - `docs/DESIGN.md` : how the design works, line by line
 
-Team: Yalamanchili Rajiv, Y Chinmay Raju, Sudhanva, Devanarayana
+Team: Yalamanchili Rajiv, Y Chinmay Raju, Sudhanva
